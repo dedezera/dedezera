@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dedezera
+- 👀 I’m interested in Front-End Development
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me : @aaandrefelipe23 on Twitter and Instagram
