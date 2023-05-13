@@ -1,13 +1,15 @@
-- 👋 Hi, I’m André Felipe, also @dedezera. I'm a System Development student
+- 👋 Hi, I’m André Felipe, also @dedezera. I'm a 27yo System Development student and a jr dev
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning JavaScript
-- 📫 You can reach me on : @aaandrefelipe23 on Twitter and Instagram
+- 🌱 I’m currently learning about JavaScript
+- 📧 Send me a e-mail on doro123andre@gmail.com
 
 
 ![Dedezera's GitHub stats](https://github-readme-stats.vercel.app/api?username=dedezera&show_icons=true&theme=dracula)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dedezera&layout=compact)](https://github.com/dedezera/github-readme-stats)
+
+- 📱 Reach me on my social medias also
 
 <p align="left" style="background:yellow">
 <a href="https://twitter.com/Aaandrefelipe23" target="_blank">
